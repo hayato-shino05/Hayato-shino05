@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: amdin
 
 on:
 
@@ -30,4 +30,4 @@ jobs:
 
           max_post_count: "4"
 
-          feed_list: "https://dev.to/feed/itszed0"
+          feed_list: "https://dev.to/feed/hayato-shino05"
