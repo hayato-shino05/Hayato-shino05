@@ -10,7 +10,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 src="https://img.shields.io/github/followers/hayato-shino05?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/hayato_shino05" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/hayato_shino05?logo=x&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
-
+<a href="https://github.com/Hayato-shino05/Hayato-shino05" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Hayato-shino05&style=for-the-badge" alt="Profile views" />
 ### Skills
 
 
