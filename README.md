@@ -8,8 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://www.github.com/hayato-shino05" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hayato-shino05?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/hayato_shino05" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/hayato_shino05?logo=x&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a>
+src="https://img.shields.io/badge/followers-19-blue?logo=x&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 <img src="https://komarev.com/ghpvc/?username=Hayato-shino05&style=for-the-badge&color=0891b2&labelColor=000000" alt="Profile views" />
 ### Skills
 
