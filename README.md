@@ -3,8 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Fukuoka
 * 🖥️ See my portfolio at [My website](https://brightlearn.onrender.com)
-* ✉️  You can contact me at [nthdungvn@gmail.com](mailto:nthdungvn@gmail.com)
-* ✉️  You can contact me at [hayatoshino05@gmail.com](mailto:hayatoshino05@gmail.com)
+* ✉️ You can contact me at [nthdungvn@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
+* ✉️ You can contact me at [hayatoshino05@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
 <a href="https://www.github.com/hayato-shino05" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hayato-shino05?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/hayato_shino05" target="_blank" rel="noreferrer"><img
