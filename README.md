@@ -22,7 +22,7 @@
 * 🤝 Open to collaborating on open-source projects and innovative web applications
 
 <div align="center">
-  <a href="https://brightlearn.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://hayato-shino05.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=hayatoshino05@gmail.com&su=Job%20Opportunity" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/hayato-shino05" target="_blank"><img src="https://img.shields.io/github/followers/hayato-shino05?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
   <a href="https://www.x.com/hayato_shino05" target="_blank"><img src="https://img.shields.io/badge/followers-19-blue?logo=x&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
