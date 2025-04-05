@@ -157,15 +157,8 @@ Another important highlight is the platform for teachers to exchange and sell ex
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-```text
-JavaScript   15 hrs 41 mins  ███████████▓░░░░░░░░░░░░░   46.12 %
-React        9 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   27.58 %
-Python       4 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-CSS          2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-SQL          1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Other        35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-```
 <!--END_SECTION:waka-->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hayato-shino05/hayato-shino05/blob/output/github-contribution-grid-snake-dark.svg" />
