@@ -160,12 +160,6 @@ Another important highlight is the platform for teachers to exchange and sell ex
 <!--END_SECTION:waka-->
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hayato-shino05/hayato-shino05/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hayato-shino05/hayato-shino05/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://github.com/hayato-shino05/hayato-shino05/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
 <hr/>
 
 ## 🏆 Achievements
