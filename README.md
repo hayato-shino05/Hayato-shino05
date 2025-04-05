@@ -154,12 +154,10 @@ Another important highlight is the platform for teachers to exchange and sell ex
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayato-shino05&theme=react-dark&hide_border=true&area=true&bg_color=000000&line=0891b2&point=ffffff&color=ffffff&area_color=0891b2" width="100%" alt="Contribution Graph" />
 </div>
 
-### 📊 Weekly Development Breakdown
+### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-_Updated automatically every hour using [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)_
 
 <hr/>
 
