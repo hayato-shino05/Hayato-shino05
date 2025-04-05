@@ -159,6 +159,7 @@ Another important highlight is the platform for teachers to exchange and sell ex
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+_Updated automatically every hour using [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)_
 
 <hr/>
 
