@@ -2,14 +2,13 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # mỗi ngày 0h UTC
   workflow_dispatch:
 
 jobs:
   update-readme:
     name: Update WakaTime stats
     runs-on: ubuntu-latest
-
     steps:
       - uses: athul/waka-readme@master
         with:
@@ -17,3 +16,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TOTAL: true
           SHOW_TIME: true
+          SHOW_TITLE: true  # dùng cái này thay SHOW_LANGUAGE
+          TIME_RANGE: last_7_days
