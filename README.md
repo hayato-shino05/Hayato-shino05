@@ -156,8 +156,8 @@ Another important highlight is the platform for teachers to exchange and sell ex
 
 ### 📊 Weekly development breakdown
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 <hr/>
 
