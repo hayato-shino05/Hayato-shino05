@@ -141,10 +141,15 @@ Another important highlight is the platform for teachers to exchange and sell ex
   <img src="https://github-readme-stats.vercel.app/api?username=hayato-shino05&show_icons=true&count_private=true&title_color=0891b2&text_color=0d1117&icon_color=0891b2&bg_color=f6f8fa&hide_border=true&show_icons=true&theme=default" alt="GitHub stats" height="165px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayato-shino05&layout=compact&count_private=true&langs_count=6&title_color=0891b2&text_color=0d1117&icon_color=0891b2&bg_color=f6f8fa&hide_border=true&theme=default" alt="Top Languages" height="165px" />
 </p>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hayato-shino05&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </div>
+
+## 📊 Weekly development breakdown
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+<hr/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hayato-shino05&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" width="100%" />
@@ -154,10 +159,6 @@ Another important highlight is the platform for teachers to exchange and sell ex
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayato-shino05&theme=react-dark&hide_border=true&area=true&bg_color=000000&line=0891b2&point=ffffff&color=ffffff&area_color=0891b2" width="100%" alt="Contribution Graph" />
 </div>
 
-### 📊 Weekly development breakdown
-
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
 
 <hr/>
 
