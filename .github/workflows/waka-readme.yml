@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 4:00 AM Hanoi time (21:00 UTC)
-    - cron: '0 21 * * *'
+    # Runs at 3:00 PM Hanoi time (08:00 UTC)
+    - cron: '0 8 * * *'
   workflow_dispatch:
 
 jobs:
