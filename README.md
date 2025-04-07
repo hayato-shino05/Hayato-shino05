@@ -145,6 +145,8 @@ Another important highlight is the platform for teachers to exchange and sell ex
 
 ## 📊 Weekly development breakdown
 
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username)
+
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
 <hr/>
