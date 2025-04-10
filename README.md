@@ -164,10 +164,10 @@ Another important highlight is the platform for teachers to exchange and sell ex
 
 ## 🏆 Achievements
 
-- 🥇 **Top Contributor** - Contributed to open-source projects with 200+ merged PRs
-- 🏆 **Hackathon Winner** - First place in Fukuoka Tech Challenge 2024
-- 📝 **Technical Writer** - Published articles on modern web development practices
-- 🎓 **Certified AWS Solutions Architect Associate**
+- 🥇
+- 🏆 
+- 📝 
+- 🎓
 
 <hr/>
 
