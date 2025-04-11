@@ -110,15 +110,17 @@
 
 ## 🔥 Featured Projects
 <div align="center">
-  <a href="https://github.com/hayato-shino05/Grok-Fun-Mode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Grok-Fun-Mode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" />
-  </a>
-  <a href="https://github.com/hayato-shino05/tool-tim-kiem-thanh-le-hom-nay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=tool-tim-kiem-thanh-le-hom-nay&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" />
-  </a>
-  <a href="https://github.com/hayato-shino05/Happy-Birthday-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Happy-Birthday-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" />
-  </a>
+
+<a href="https://github.com/hayato-shino05/Grok-Fun-Mode">
+  <img src="https://github-readme-stats-sigma-plum.vercel.app/api/pin/?username=hayato-shino05&repo=Grok-Fun-Mode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" />
+</a>
+<a href="https://github.com/hayato-shino05/tool-tim-kiem-thanh-le-hom-nay">
+  <img src="https://github-readme-stats-sigma-plum.vercel.app/api/pin/?username=hayato-shino05&repo=tool-tim-kiem-thanh-le-hom-nay&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" />
+</a>
+<a href="https://github.com/hayato-shino05/Happy-Birthday-Website">
+  <img src="https://github-readme-stats-sigma-plum.vercel.app/api/pin/?username=hayato-shino05&repo=Happy-Birthday-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" />
+</a>
+
 </div>
 
 ### 🚀 Project Highlights
