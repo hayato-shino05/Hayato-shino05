@@ -109,19 +109,18 @@
 <hr/>
 
 ## 🔥 Featured Projects
-<div align="center">
 
-<a href="https://github.com/hayato-shino05/Grok-Fun-Mode">
-  <img src="https://github-readme-stats-sigma-plum.vercel.app/api/pin/?username=hayato-shino05&repo=Grok-Fun-Mode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" />
-</a>
-<a href="https://github.com/hayato-shino05/tool-tim-kiem-thanh-le-hom-nay">
-  <img src="https://github-readme-stats-sigma-plum.vercel.app/api/pin/?username=hayato-shino05&repo=tool-tim-kiem-thanh-le-hom-nay&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" />
-</a>
-<a href="https://github.com/hayato-shino05/Happy-Birthday-Website">
-  <img src="https://github-readme-stats-sigma-plum.vercel.app/api/pin/?username=hayato-shino05&repo=Happy-Birthday-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true" />
-</a>
+- [Grok-Fun-Mode](https://github.com/Hayato-shino05/Grok-Fun-Mode)  
+  ![Stars](https://img.shields.io/github/stars/Hayato-shino05/Grok-Fun-Mode?style=social)  
+  Một chế độ học lập trình vui nhộn.
 
-</div>
+- [tool-tim-kiem-thanh-le-hom-nay](https://github.com/Hayato-shino05/tool-tim-kiem-thanh-le-hom-nay)  
+  ![Stars](https://img.shields.io/github/stars/Hayato-shino05/tool-tim-kiem-thanh-le-hom-nay?style=social)  
+  Tìm kiếm thông tin Thánh Lễ hôm nay.
+
+- [Happy-Birthday-Website](https://github.com/Hayato-shino05/Happy-Birthday-Website)  
+  ![Stars](https://img.shields.io/github/stars/Hayato-shino05/Happy-Birthday-Website?style=social)  
+  Trang web chúc mừng sinh nhật đẹp mắt.
 
 ### 🚀 Project Highlights
 
