@@ -1,0 +1,30 @@
+name: Update Featured Projects
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Chạy mỗi ngày lúc 0h UTC
+  workflow_dispatch:      # Cho phép chạy thủ công
+  push:
+    paths:
+      - '.github/scripts/update_readme.py'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install requests
+        run: pip install requests
+      - name: Update README
+        run: python .github/scripts/update_readme.py
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update Featured Projects section" || echo "No changes to commit"
+          git push
