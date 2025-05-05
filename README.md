@@ -128,12 +128,6 @@
 The system stands out with its ability to create smart exams from a diverse question bank, covering all major subjects for high school students. Notably, the project integrates Google's Gemini API to analyze answers and provide immediate feedback, helping students improve their learning effectiveness.
 Another important highlight is the platform for teachers to exchange and sell exam materials, combined with a professional question bank management system. The project is built on modern technology including PHP, Python (Flask), MySQL, and advanced frontend frameworks, ensuring high performance and scalability. The user-friendly, responsive, and highly secure interface, along with detailed learning data analytics features, helps teachers and students monitor and improve learning outcomes effectively.A comprehensive e-learning platform built with React, Node.js, and MongoDB that facilitates interactive learning experiences. Features include video conferencing, real-time collaboration tools, and adaptive learning paths with analytics.
 
-2. **[Data Visualization Dashboard](https://github.com/hayato-shino05/data-visualization-dashboard)** - A responsive data visualization platform created with Python, Flask, and D3.js that transforms complex datasets into intuitive visual insights. Implements WebSockets for real-time data processing and updates, reducing analysis time by 60%.
-
-3. **[Inventory Management System](https://github.com/hayato-shino05/inventory-management-system)** - A secure, full-stack inventory management system using PostgreSQL, PHP, and React that streamlines stock tracking and order fulfillment. Features barcode integration, automated reordering, and comprehensive reporting that has improved operational efficiency by 45%.
-
-<hr/>
-
 ## 📈 GitHub Analytics
 
 <p align="center">
