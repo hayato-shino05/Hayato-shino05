@@ -131,12 +131,9 @@ Another important highlight is the platform for teachers to exchange and sell ex
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayato-shino05&show_icons=true&count_private=true&title_color=0891b2&text_color=0d1117&icon_color=0891b2&bg_color=f6f8fa&hide_border=true&show_icons=true&theme=default" alt="GitHub stats" height="165px" />
+<img src="https://github-readme-stats.vercel.app/api?username=hayato-shino05&show_icons=true&count_private=true&title_color=0891b2&text_color=0d1117&icon_color=0891b2&bg_color=f6f8fa&hide_border=true&show_icons=true&theme=default" alt="GitHub stats" height="165px" />
 <img src="https://github-readme-stats-sigma-plum.vercel.app/api/top-langs/?username=hayato-shino05&layout=compact&count_private=true&langs_count=6&title_color=0891b2&text_color=0d1117&icon_color=0891b2&bg_color=f6f8fa&hide_border=true&theme=default" alt="Top Languages" height="165px" />
 </p>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hayato-shino05&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</div>
 
 ## 📊 Weekly development breakdown
 
