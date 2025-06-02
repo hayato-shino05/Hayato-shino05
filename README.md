@@ -74,8 +74,8 @@
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="48" height="48" alt="Flask" />
-      <br>Flask
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Flask" width="65" height="65" />
+      <br><strong>Flask</strong>
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL" />
@@ -90,12 +90,12 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" />
-      <br>C#
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+      <br><strong>C#</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" />
-      <br>Typescript
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br><strong>TypeScript</strong>
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="48" height="48" alt="Photoshop" />
@@ -114,23 +114,45 @@
 
 ## 🔥 Featured Projects
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/hayato-shino05/Grok-Fun-Mode">
-    <img src="https://github-readme-stats-sigma-plum.vercel.app/api/pin/?username=hayato-shino05&repo=Grok-Fun-Mode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=23272e&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Grok-Fun-Mode&title_color=0891b2&text_color=0d1117&icon_color=0891b2&bg_color=ffffff&hide_border=false&border_color=e1e4e8" />
   </a>
   <a href="https://github.com/hayato-shino05/tim-kiem-thanh-le-hom-nay">
-    <img src="https://github-readme-stats-sigma-plum.vercel.app/api/pin/?username=hayato-shino05&repo=tim-kiem-thanh-le-hom-nay&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=23272e&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=tim-kiem-thanh-le-hom-nay&title_color=0891b2&text_color=0d1117&icon_color=0891b2&bg_color=ffffff&hide_border=false&border_color=e1e4e8" />
   </a>
+</div>
+
+<div align="center" style="margin-top: 10px;">
   <a href="https://github.com/hayato-shino05/Happy-Birthday-Website">
-    <img src="https://github-readme-stats-sigma-plum.vercel.app/api/pin/?username=hayato-shino05&repo=Happy-Birthday-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=23272e&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Happy-Birthday-Website&title_color=0891b2&text_color=0d1117&icon_color=0891b2&bg_color=ffffff&hide_border=false&border_color=e1e4e8" />
   </a>
-</p>
+</div>
 
 ### 🚀 Project Highlights
 
-1. **[BrightLearn](https://github.com/hayato-shino05/brightlearn-platform)** - BrightLearn is an intelligent learning system with its most distinctive feature being the sophisticated analysis of students' knowledge and skills through tracking their responses and test results. Based on this data, the system automatically builds personalized learning pathways, helping students focus on areas that need improvement while developing their strengths.
-The system stands out with its ability to create smart exams from a diverse question bank, covering all major subjects for high school students. Notably, the project integrates Google's Gemini API to analyze answers and provide immediate feedback, helping students improve their learning effectiveness.
-Another important highlight is the platform for teachers to exchange and sell exam materials, combined with a professional question bank management system. The project is built on modern technology including PHP, Python (Flask), MySQL, and advanced frontend frameworks, ensuring high performance and scalability. The user-friendly, responsive, and highly secure interface, along with detailed learning data analytics features, helps teachers and students monitor and improve learning outcomes effectively.A comprehensive e-learning platform built with React, Node.js, and MongoDB that facilitates interactive learning experiences. Features include video conferencing, real-time collaboration tools, and adaptive learning paths with analytics.
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h4>🎓 BrightLearn Platform</h4>
+        <p>An intelligent e-learning system featuring AI-powered student analysis and personalized learning pathways. Built with PHP, Python (Flask), MySQL, and integrated with Google's Gemini API for smart assessment and feedback.</p>
+        <p><strong>Key Features:</strong></p>
+        <ul>
+          <li>🧠 AI-powered learning path optimization</li>
+          <li>📊 Real-time performance analytics</li>
+          <li>🤝 Teacher collaboration platform</li>
+          <li>📱 Responsive, secure interface</li>
+        </ul>
+        <a href="https://github.com/hayato-shino05/brightlearn-platform">
+          <img src="https://img.shields.io/badge/View_Project-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr/>
 
 ## 📈 GitHub Analytics
 
@@ -197,4 +219,11 @@ Another important highlight is the platform for teachers to exchange and sell ex
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=hayatoshino05@gmail.com&su=Project%20Collaboration" target="_blank">
     <img src="https://img.shields.io/badge/Collaborate-0891b2?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
   </a>
+</div>
+
+---
+
+<div align="center">
+  <p><strong>⭐ If you find my work interesting, please consider giving a star to my repositories! ⭐</strong></p>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
