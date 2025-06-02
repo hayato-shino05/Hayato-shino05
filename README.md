@@ -94,6 +94,10 @@
       <br>C#
     </td>
     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" />
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="48" height="48" alt="Photoshop" />
       <br>Photoshop
     </td>
