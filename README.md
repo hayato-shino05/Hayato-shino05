@@ -1,16 +1,6 @@
-# 👋 Hi, I'm Shinohara Hayato
-
-> Full Stack Developer creating innovative, high-performance solutions with clean, maintainable code
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+%26+Cloud+Architecture+Expert;Clean+Code+Enthusiast;Problem+Solver+%26+Team+Collaborator" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋" />
-  <b>I love turning complex problems into elegant solutions</b>
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Shinohara%20Hayato&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
+</div
 
 ## 🧠 About Me
 
@@ -33,7 +23,7 @@
 
 ## 🛠️ Technology Stack
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
@@ -112,22 +102,51 @@
 
 <hr/>
 
-## 🔥 Featured Projects
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 
+    Featured Projects 
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  </h2>
+</div>
 
 <div align="center">
-  <a href="https://github.com/hayato-shino05/Grok-Fun-Mode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Grok-Fun-Mode&title_color=0891b2&text_color=0d1117&icon_color=0891b2&bg_color=ffffff&hide_border=false&border_color=e1e4e8" />
-  </a>
-  <a href="https://github.com/hayato-shino05/tim-kiem-thanh-le-hom-nay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=tim-kiem-thanh-le-hom-nay&title_color=0891b2&text_color=0d1117&icon_color=0891b2&bg_color=ffffff&hide_border=false&border_color=e1e4e8" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/hayato-shino05/Grok-Fun-Mode">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Grok-Fun-Mode&title_color=FFD700&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=false&border_color=FFD700&border_radius=20&show_owner=false&theme=dark" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/hayato-shino05/tim-kiem-thanh-le-hom-nay">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=tim-kiem-thanh-le-hom-nay&title_color=FF6B9D&text_color=ffffff&icon_color=FF6B9D&bg_color=0D1117&hide_border=false&border_color=FF6B9D&border_radius=20&show_owner=false&theme=dark" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/hayato-shino05/Happy-Birthday-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Happy-Birthday-Website&title_color=9F7AEA&text_color=ffffff&icon_color=9F7AEA&bg_color=0D1117&hide_border=false&border_color=9F7AEA&border_radius=20&show_owner=false&theme=dark" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/hayato-shino05/Deepseek">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Deepseek&title_color=4ECDC4&text_color=ffffff&icon_color=4ECDC4&bg_color=0D1117&hide_border=false&border_color=4ECDC4&border_radius=20&show_owner=false&theme=dark" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/hayato-shino05/Happy-Birthday-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Happy-Birthday-Website&title_color=0891b2&text_color=0d1117&icon_color=0891b2&bg_color=ffffff&hide_border=false&border_color=e1e4e8" />
-  </a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+<div align="center">
+  <br>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/hayato-shino05&query=$.public_repos&label=Total%20Projects&color=0891B2&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/stars/hayato-shino05?style=for-the-badge&logo=star&logoColor=white&color=0891B2&label=Total%20Stars" />
+<br>
 
 ### 🚀 Project Highlights
 
