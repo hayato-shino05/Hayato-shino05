@@ -140,9 +140,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-<div align="center">
   <br>
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/hayato-shino05&query=$.public_repos&label=Total%20Projects&color=0891B2&style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/github/stars/hayato-shino05?style=for-the-badge&logo=star&logoColor=white&color=0891B2&label=Total%20Stars" />
@@ -245,4 +242,8 @@
 <div align="center">
   <p><strong>⭐ If you find my work interesting, please consider giving a star to my repositories! ⭐</strong></p>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
