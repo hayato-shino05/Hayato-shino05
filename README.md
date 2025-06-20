@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Shinohara%20Hayato&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
-</div
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Shinohara%20Hayato&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
+</div>
 
-## 🧠 About Me
+## About Me
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 
-* 🌍 Based in Fukuoka, Japan
+* 🌍 Based in **Fukuoka, Japan**
 * 💼 Available for full-time roles and freelance projects
 * 🚀 Passionate about creating scalable, user-centric applications
 * 🔭 Currently working on cloud-native application architecture
