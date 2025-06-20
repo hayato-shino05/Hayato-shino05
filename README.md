@@ -188,10 +188,6 @@
 <hr/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hayato-shino05&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayato-shino05&custom_title=Hayato's%20Contribution%20Graph&bg_color=0D1117&color=4ECDC4&line=FFD700&point=FF6B6B&area=true&hide_border=true&radius=10" width="100%" alt="Contribution Graph" />
 </div>
 
