@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,15,12,3,25&height=300&section=header&text=Shinohara%20Hayato&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,15,12,3,25&height=300&section=header&text=Shinohara%20Hayato&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
 </div>
 
 ## About Me
