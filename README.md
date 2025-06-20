@@ -170,16 +170,16 @@
 
 <hr/>
 
-## 📈 GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hayato-shino05&show_icons=true&count_private=true&title_color=0891b2&text_color=0d1117&icon_color=0891b2&bg_color=f6f8fa&hide_border=true&show_icons=true&theme=default" alt="GitHub stats" height="165px" />
-<img src="https://github-readme-stats-sigma-plum.vercel.app/api/top-langs/?username=hayato-shino05&layout=compact&count_private=true&langs_count=6&title_color=0891b2&text_color=0d1117&icon_color=0891b2&bg_color=f6f8fa&hide_border=true&theme=default" alt="Top Languages" height="165px" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hayato-shino05&show_icons=true&count_private=true&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=true&border_radius=15" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayato-shino05&layout=compact&count_private=true&langs_count=8&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=true&border_radius=15" alt="Top Languages" height="180em" />
+</div>
 
-## 📊 Weekly development breakdown
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Weekly Development Breakdown
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hayato_shino05)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hayato_shino05&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&border_radius=15)
 
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
@@ -190,7 +190,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayato-shino05&theme=react-dark&hide_border=true&area=true&bg_color=000000&line=0891b2&point=ffffff&color=ffffff&area_color=0891b2" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayato-shino05&custom_title=Hayato's%20Contribution%20Graph&bg_color=0D1117&color=4ECDC4&line=FFD700&point=FF6B6B&area=true&hide_border=true&radius=10" width="100%" alt="Contribution Graph" />
 </div>
 
 
