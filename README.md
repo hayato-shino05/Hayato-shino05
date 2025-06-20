@@ -11,8 +11,8 @@
 * 🔭 Currently working on cloud-native application architecture
 * 📚 Learning **Python** and **React Native**
 * 🤝 Open to collaborating on open-source projects and innovative web applications
-<br><br>
 
+<br><br>
 <div align="center">
   <a href="https://hayato-shino05.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=hayatoshino05@gmail.com&su=Job%20Opportunity" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
