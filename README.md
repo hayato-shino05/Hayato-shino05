@@ -151,7 +151,9 @@
   <table>
     <tr>
       <td>
-        <h4>🎓 BrightLearn Platform</h4>
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/>
+        <strong>BrightLearn Platform - AI-Powered E-Learning System</strong>
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/>
         <p>An intelligent e-learning system featuring AI-powered student analysis and personalized learning pathways. Built with PHP, Python (Flask), MySQL, and integrated with Google's Gemini API for smart assessment and feedback.</p>
         <p><strong>Key Features:</strong></p>
         <ul>
