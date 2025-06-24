@@ -23,7 +23,7 @@
 
 <hr/>
 
-## 🛠️ Technology Stack
+### Technology Stack
 
 <table align="center">
   <tr>
@@ -96,7 +96,7 @@
   </tr>
 </table>
 
-### 📊 Currently Learning
+### Currently Learning
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
