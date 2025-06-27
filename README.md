@@ -281,10 +281,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.x.com/hayato_shino05" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://brightlearn.onrender.com" target="_blank">
+  <a href="https://hayato-shino05.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=hayatoshino05@gmail.com&su=Job%20Opportunity" target="_blank">
+    <img src="https://img.shields.io/badge/Hire_Me-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
   </a>
 </div>
 
@@ -292,16 +295,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="70%" />
 </div>
 
-<div align="center">
-  <h3>💬 Let's build something amazing together!</h3>
-  <p>Available for freelance projects and full-time opportunities</p>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=hayatoshino05@gmail.com&su=Job%20Opportunity" target="_blank">
-    <img src="https://img.shields.io/badge/Hire_Me-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=hayatoshino05@gmail.com&su=Project%20Collaboration" target="_blank">
-    <img src="https://img.shields.io/badge/Collaborate-0891b2?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
-  </a>
-</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,32,40,48,56,68&height=120&section=footer&text=ありがとうございました!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=75"/>
 </div>
