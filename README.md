@@ -141,7 +141,6 @@
   </table>
 </div>
 
-
 <div align="center">
   <br>
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/hayato-shino05&query=$.public_repos&label=Total%20Projects&color=0891B2&style=for-the-badge&logo=github&logoColor=white" />
