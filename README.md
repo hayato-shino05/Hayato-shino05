@@ -117,29 +117,30 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/hayato-shino05/Grok-Fun-Mode">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Grok-Fun-Mode&title_color=FFD700&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=false&border_color=FFD700&border_radius=20&show_owner=false&theme=dark" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Grok-Fun-Mode&title_color=FFD700&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=false&border_color=FFD700&border_radius=20&show_owner=false&theme=dark&cache_seconds=60" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/hayato-shino05/tim-kiem-thanh-le-hom-nay">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=tim-kiem-thanh-le-hom-nay&title_color=FF6B9D&text_color=ffffff&icon_color=FF6B9D&bg_color=0D1117&hide_border=false&border_color=FF6B9D&border_radius=20&show_owner=false&theme=dark" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=tim-kiem-thanh-le-hom-nay&title_color=FF6B9D&text_color=ffffff&icon_color=FF6B9D&bg_color=0D1117&hide_border=false&border_color=FF6B9D&border_radius=20&show_owner=false&theme=dark&cache_seconds=60" width="100%" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/hayato-shino05/Happy-Birthday-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Happy-Birthday-Website&title_color=9F7AEA&text_color=ffffff&icon_color=9F7AEA&bg_color=0D1117&hide_border=false&border_color=9F7AEA&border_radius=20&show_owner=false&theme=dark" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Happy-Birthday-Website&title_color=9F7AEA&text_color=ffffff&icon_color=9F7AEA&bg_color=0D1117&hide_border=false&border_color=9F7AEA&border_radius=20&show_owner=false&theme=dark&cache_seconds=60" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/hayato-shino05/Deepseek">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Deepseek&title_color=4ECDC4&text_color=ffffff&icon_color=4ECDC4&bg_color=0D1117&hide_border=false&border_color=4ECDC4&border_radius=20&show_owner=false&theme=dark" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=Deepseek&title_color=4ECDC4&text_color=ffffff&icon_color=4ECDC4&bg_color=0D1117&hide_border=false&border_color=4ECDC4&border_radius=20&show_owner=false&theme=dark&cache_seconds=60" width="100%" />
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 
 <div align="center">
   <br>
