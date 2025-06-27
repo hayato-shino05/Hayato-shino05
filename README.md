@@ -302,14 +302,6 @@
     <img src="https://img.shields.io/badge/Collaborate-0891b2?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborate" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <p><strong>⭐ If you find my work interesting, please consider giving a star to my repositories! ⭐</strong></p>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,32,40,48,56,68&height=120&section=footer&text=ありがとうございました!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=75"/>
 </div>
