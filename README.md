@@ -5,7 +5,7 @@
 ## About Me
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 
-* 🌍 Based in **Fukuoka, Japan (福岡)**
+* 🌍 Based in **Fukuoka(福岡)**
 * 💼 Available for full-time roles and freelance projects
 * 🚀 Passionate about creating scalable, user-centric applications
 * 🔭 Currently working on cloud-native application architecture
