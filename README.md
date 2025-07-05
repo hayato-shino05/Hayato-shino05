@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://hayato-shino05.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=hayatoshino05@gmail.com&su=Job%20Opportunity" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/hayato-shino05" target="_blank"><img src="https://img.shields.io/github/followers/hayato-shino05?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+  <a href="https://qiita.com/Hayato-shino05"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
   <a href="https://www.x.com/hayato_shino05" target="_blank"><img src="https://img.shields.io/badge/followers-19-blue?logo=x&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
   <img src="https://komarev.com/ghpvc/?username=Hayato-shino05&style=for-the-badge&color=0891b2&labelColor=000000" alt="Profile views" />
 </div>
@@ -264,7 +264,7 @@
 <hr/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayato-shino05&custom_title=Hayato's%20Contribution%20Graph&bg_color=0D1117&color=4ECDC4&line=FFD700&point=FF6B6B&area=true&hide_border=true&radius=10" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayato-shino05&custom_title=Contribution%20Graph&bg_color=0D1117&color=4ECDC4&line=FFD700&point=FF6B6B&area=true&hide_border=true&radius=10" width="640" />
 </div>
 
 
