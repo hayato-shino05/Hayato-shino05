@@ -1,22 +1,16 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,12,24,36,48&height=300&section=header&text=Shinohara%20Hayato&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
-</div>
 
 ## About Me
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
-
-* 💼 Available for full-time roles and freelance projects
-* 🚀 Passionate about creating scalable, user-centric applications
-* 🔭 Currently working on cloud-native application architecture
-* 📚 Learning **Python** and **React Native**
-* 🤝 Open to collaborating on open-source projects and innovative web applications
-
+*  Available for full-time roles and freelance projects
+*  Passionate about creating scalable, user-centric applications
+*  Learning **Python** and **React Native**
 <br><br>
 <div align="center">
   <a href="https://hayato-shino05.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=hayatoshino05@gmail.com&su=Job%20Opportunity" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://qiita.com/Hayato-shino05"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
-  <a href="https://www.x.com/hayato_shino05" target="_blank"><img src="https://img.shields.io/badge/followers-19-blue?logo=x&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+  <a href="https://www.linkedin.com/in/hayato-shino05" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Hayato-shino05&style=for-the-badge&color=0891b2&labelColor=000000" alt="Profile views" />
 </div>
 
@@ -95,14 +89,6 @@
   </tr>
 </table>
 
-### Currently Learning
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-
-<hr/>
-
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 
@@ -142,109 +128,7 @@
 
 <div align="center">
   <br>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/hayato-shino05&query=$.public_repos&label=Total%20Projects&color=0891B2&style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/stars/hayato-shino05?style=for-the-badge&logo=star&logoColor=white&color=0891B2&label=Total%20Stars" />
-<br>
-
----
-
-# 🚀 Project Highlights
-
-<div align="center">
-
-## 🎓 BrightLearn - AI-Powered E-Learning Ecosystem
-
-*An intelligent e-learning system featuring AI-powered student analysis and personalized learning pathways*
-<br>
-
-### 🔧 **Tech Stack**
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-<br>
-
-### ✨ **Key Features**
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-#### 🧠 **AI学習分析**
-*Personalized learning path optimization using machine learning*
-
-</td>
-<td align="center" width="50%">
-
-#### 📊 **リアルタイム分析**  
-*Real-time performance analytics and progress tracking*
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-#### 🤝 **先生協力**
-*Comprehensive teacher collaboration and management tools*
-
-</td>
-<td align="center" width="50%">
-
-#### 📱 **レスポンシブ設計**
-*Mobile-first, secure, and intuitive interface*
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-#### 🎯 **個別最適化**
-*Adaptive content delivery based on learning patterns*
-
-</td>
-</tr>
-</table>
-<br>
-
-### 🏆 **Impact & Results**
-
-<div align="center">
-
-| 📈 **Metric** | 📊 **Improvement** | 🎯 **Impact** |
-|:-------------:|:------------------:|:-------------:|
-| **Learning Efficiency** | `+40%` | 🚀 Faster skill acquisition |
-| **Teacher Workload** | `-60%` | ⚡ Reduced administrative tasks |
-| **Student Engagement** | `+85%` | 💫 Higher participation rates |
-
-</div>
-<br>
-
-### 🌟 **Live Demo**
-
-<p align="center">
-  <a href="https://brightlearn.space" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Explore_Live_Demo-4ECDC4?style=for-the-badge&logo=safari&logoColor=white&labelColor=2C3E50" alt="Live Demo"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢_Live-success?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Version-v1.2.0-blue?style=flat-square" alt="Version"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"/>
-</p>
-
-
-<p align="center">
-  <em>🌟 Transforming education through intelligent technology 🌟</em>
-</p>
-
-</div>
-
+  
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> GitHub Analytics
@@ -260,39 +144,10 @@
 
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
-<hr/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayato-shino05&custom_title=Contribution%20Graph&bg_color=0D1117&color=4ECDC4&line=FFD700&point=FF6B6B&area=true&hide_border=true&radius=10" width="640" />
 </div>
-
-
-<hr/>
-
-## 📫 Let's Connect
-
-<div align="center">
-  <a href="https://github.com/hayato-shino05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/hayato-shino05" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.x.com/hayato_shino05" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://hayato-shino05.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=hayatoshino05@gmail.com&su=Job%20Opportunity" target="_blank">
-    <img src="https://img.shields.io/badge/Hire_Me-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="70%" />
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,32,40,48,56,68&height=120&section=footer&text=ありがとうございました!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=75"/>
 </div>
