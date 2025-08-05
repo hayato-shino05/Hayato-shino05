@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayato-shino05&show_icons=true&count_private=true&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=true&border_radius=10&hide=issues" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hayato-shino05&show_icons=true&count_private=true&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=true&border_radius=10&hide=issues&cache_seconds=60" height="170em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayato-shino05&layout=compact&count_private=true&langs_count=6&title_color=4ECDC4&text_color=ffffff&bg_color=0D1117&hide_border=true&border_radius=10" height="170em" />
 </div>
 
