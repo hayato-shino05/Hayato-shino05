@@ -90,5 +90,26 @@
       <br>Photoshop
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt="ASP.NET Core" />
+      <br><strong>ASP.NET Core</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.svgporn.com/logos/swagger.svg" width="48" height="48" alt="Swagger" />
+      <br><strong>Swagger</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      <br><strong>Next.js</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      <br><strong>Express</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
+      <br><strong>SQL Server</strong>
+    </td>
+  </tr>
 </table>
-
