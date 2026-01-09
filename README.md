@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hayato-shino05&show_icons=true&count_private=true&title_color=4ECDC4&text_color=ffffff&icon_color=FFD700&bg_color=0D1117&hide_border=true&border_radius=10&hide=issues&cache_seconds=60" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayato-shino05&layout=compact&count_private=true&langs_count=6&title_color=4ECDC4&text_color=ffffff&bg_color=0D1117&hide_border=true&border_radius=10" height="170em" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayato-shino05&custom_title=Contribution%20Graph&bg_color=0D1117&color=4ECDC4&line=FFD700&point=FF6B6B&area=true&hide_border=true&radius=10" width="640" />
